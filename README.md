@@ -32,3 +32,6 @@ The Daraz Product Scraper is a web scraping tool designed to extract product inf
 - **Data Structuring:** Utilizing pandas to structure raw data into a tabular format facilitates subsequent data analysis and visualization tasks.
 - **Scalability:** The script can be easily scaled to scrape more pages or different websites with minimal modifications, highlighting the flexibility and reusability of well-written code.
 
+## How it works 
+
+https://github.com/KavinduR0713/Daraz-Product-Scraper/assets/105490780/96486ac5-53d6-4a19-8a6e-9820739bf56f
